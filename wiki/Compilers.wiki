@@ -1,5 +1,3 @@
-= Compilers =
-
 cURLpp is meant to be portable, but I can't maintain, all by myself, a project file for every platform that exists. Here's the environnements that I maintain, or will maintain personally:
 
   * Max OS X/GCC 2.95/GCC 3.x/GCC 4.x

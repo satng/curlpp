@@ -1,4 +1,3 @@
-#summary cURLpp Development Plans
 
 = Code History =
 
